@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFEB3B&text=Nya128&animation=fadeIn&fontAlign=90&fontAlignY=40&fontSize=35&fontColor=FFFFFF&height=130)
-> #### 밤빵과 밥이 좋은 개발자의 GITHUB
->> ### :gem:🥯🌰🍞🍚
+
+> ### :gem:🥯🌰🍞🍚
 ##
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
